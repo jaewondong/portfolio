@@ -30,7 +30,7 @@
 
     --white: #f1e6f4;
     --red: #d6415c;
-    --light-blue: rgb(205, 222, 231);
+    --light-blue: rgb(244, 249, 245);
     --soft-blue: rgb(74, 136, 186);
     --dark-blue: rgb(10, 17, 70);
 
@@ -137,7 +137,7 @@ h3 {
 .heading-primary {
     line-height: 1;
     font-size: var(--font-size-large-2);
-    font-weight: 400;
+    font-weight: 1000;
 }
 
 @media(max-width: 900px) {
